@@ -1,0 +1,142 @@
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSV_WIN_FORM.csproj.AssemblyReference.cache
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSV_WIN_FORM.Properties.Resources.resources
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSVNHOM.frmLogin.resources
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSVNHOM.VIEW.frmMain.resources
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSVNHOM.VIEW.frmReport.resources
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSV_WIN_FORM.csproj.GenerateResource.cache
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSV_WIN_FORM.csproj.CoreCompileInputs.cache
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\QLSV_WIN_FORM.exe.config
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\QLSV_WIN_FORM.exe
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\QLSV_WIN_FORM.pdb
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSV_WIN_FORM.exe
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSV_WIN_FORM.pdb
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSV_WIN_FORM.exe.config
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\EnvDTE.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\stdole.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\EnvDTE80.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\VSLangProj.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\VSLangProj80.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\VSLangProj2.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\RdlCompile.cache
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\RdlCompile.compiled
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\cs\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\pl\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\tr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\cs\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\pl\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\tr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\cs\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\pl\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\tr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\cs\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\pl\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\tr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeNgo\Desktop\An toàn CSDL\Project\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\QLSV_WIN_FORM.exe.config
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\QLSV_WIN_FORM.exe
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\QLSV_WIN_FORM.pdb
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSV_WIN_FORM.csproj.AssemblyReference.cache
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSV_WIN_FORM.Properties.Resources.resources
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSVNHOM.frmLogin.resources
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSVNHOM.VIEW.frmMain.resources
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSV_WIN_FORM.csproj.GenerateResource.cache
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSV_WIN_FORM.csproj.CoreCompileInputs.cache
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSV_WIN_FORM.exe
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSV_WIN_FORM.pdb
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\RdlCompile.cache
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\RdlCompile.compiled
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Dapper.dll
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\MaterialSkin.dll
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\Dapper.xml
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSV_WIN_FORM.VIEW.frmAccount.resources
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSV_WIN_FORM.VIEW.frmHomePage.resources
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSV_WIN_FORM.VIEW.frmDashBoard.resources
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSV_WIN_FORM.VIEW.DASHBOARD.frmDBAccount.resources
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSV_WIN_FORM.VIEW.DASHBOARD.frmDBClass.resources
+C:\Users\LeNgo\source\repos\QLSV_WIN_FORM\QLSV_WIN_FORM\obj\Debug\QLSV_WIN_FORM.VIEW.DASHBOARD.frmDBStudent.resources
